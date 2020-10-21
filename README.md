@@ -3,6 +3,7 @@
 ## Pneumonia Detection:
 Pneumonia is an infection that inflames your lungs' air sacs (alveoli). The air sacs may fill up with fluid or pus, causing symptoms such as a cough, fever, chills and trouble breathing. Bacteria and viruses are the main causes of pneumonia. Pneumonia-causing germs can settle in the alveoli and multiply after a person breathes them in. Pneumonia can be contagious. The bacteria and viruses that cause pneumonia are usually inhaled.
 
+![Pneumonia](pneumonia.jpg)
 
 A pneumonia infection is no joke. In fact, UNICEF reports that pneumonia kills more children than any other illness. Even if you combined the deal toll of AIDS, measles, and malaria, you would still not have a number high enough to match that of the deaths pneumonia has caused. This dangerous infection should not be taken lightly. It is good to be acquainted with the four stages of pneumonia. The sooner you recognize the illness, the better for your recovery.
 
@@ -14,7 +15,7 @@ A pneumonia infection is no joke. In fact, UNICEF reports that pneumonia kills m
 
 - Resolution: The resolution, or complete recovery, occurs when the exudate experiences progressive enzymatic digestion. This will produce debris that is eventually reabsorbed, ingested by macrophages, coughed up, or reorganized by fibroblasts.
 
-* [source: four stages of pneumonia](https://www.bassadvancedurgentcare.com/post/four-stages-of-pneumonia)
+[source: four stages of pneumonia](https://www.bassadvancedurgentcare.com/post/four-stages-of-pneumonia)
 
 
 ## Introduction:
