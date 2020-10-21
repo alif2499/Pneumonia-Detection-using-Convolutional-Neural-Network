@@ -1,0 +1,2 @@
+# Pneumonia-Detection-using-Convolutional-Neural-Network
+In this notebook, I tried to differentiate the Normal and Pneumonia affected patients using chest X-ray images using a Lightweight Convolutional Neural Network. As a beginner myself, I searched a lot to perform prediction with higher acccuracy but less number of parameters thus know the difficulties and misunderstanding in the way. That's why, Here I will try my best to explain every steps for the sake of better understanding. Hope this will help the beginners like me to learn the basic image classification using CNN.
