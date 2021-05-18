@@ -35,4 +35,4 @@ The dataset was collected from the [Chest X-Ray Images (Pneumonia)](https://www.
  PNEUMONIA
 
 
-** If you face any problem while loading the notebook, check ou this link [Pneumonia Detection using CNN](https://www.kaggle.com/alifrahman/pneumonia-detection-with-cnn-auc-score-0-94)
+*If you face any problem while loading the notebook, check ou this link [Pneumonia Detection using CNN](https://www.kaggle.com/alifrahman/pneumonia-detection-with-cnn-auc-score-0-94)*
