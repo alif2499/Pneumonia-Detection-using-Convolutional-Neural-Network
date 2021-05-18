@@ -25,8 +25,8 @@ In this notebook, I tried to differentiate the Normal and Pneumonia affected pat
 The dataset was collected from the [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) dataset. It contains three folders named train (for training), val (for validation), and test (for testing). Each of them has two sub-folders with label "NORMAL" and "PENUMONIA".
 
 - train:
- NORMAL &
- PNEUMONIA
+  * NORMAL &
+  * PNEUMONIA
 - val:
  NORMAL &
  PNEUMONIA
@@ -35,4 +35,4 @@ The dataset was collected from the [Chest X-Ray Images (Pneumonia)](https://www.
  PNEUMONIA
 
 
-** If you face any problem while loading the notebook, check ou this link [Pneumonia Detection using CNN](https://www.kaggle.com/alifrahman/pneumonia-detection-with-cnn-auc-score-0-94)
+*** If you face any problem while loading the notebook, check ou this link [Pneumonia Detection using CNN](https://www.kaggle.com/alifrahman/pneumonia-detection-with-cnn-auc-score-0-94) ***
